@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jzwzz:amqplib',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'amqplib driver for node',
   git: 'https://github.com/jzwzz/amqplib',
   documentation: 'README.md'
